@@ -1,0 +1,23 @@
+{
+  "name": "olan-metadata",
+  "version": "1.0.0",
+  "description": "make metadata easily!",
+  "keywords": [
+    "metadata"
+  ],
+  "homepage": "https://github.com/olan392/olan-metadata#readme",
+  "bugs": {
+    "url": "https://github.com/olan392/olan-metadata/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/olan392/olan-metadata.git"
+  },
+  "license": "MIT",
+  "author": "olan392",
+  "type": "module",
+  "main": "mod.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
